@@ -1,0 +1,2 @@
+﻿  Main.cpp
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: il tipo di computer del modulo 'x64' è in conflitto con il tipo di computer di destinazione 'x86'

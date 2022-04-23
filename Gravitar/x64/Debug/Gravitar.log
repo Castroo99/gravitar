@@ -1,0 +1,53 @@
+﻿  Engine.cpp
+c:\users\acer\source\repos\gravitar\gravitar\engine.cpp(15): warning C4244: '=': conversione da 'unsigned int' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\users\acer\source\repos\gravitar\gravitar\engine.cpp(16): warning C4244: '=': conversione da 'unsigned int' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\users\acer\source\repos\gravitar\gravitar\engine.cpp(17): warning C4244: 'argomento': conversione da 'T' a 'unsigned int'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\users\acer\source\repos\gravitar\gravitar\engine.cpp(28): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+c:\users\acer\source\repos\gravitar\gravitar\engine.cpp(110): warning C4244: 'argomento': conversione da 'unsigned int' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\users\acer\source\repos\gravitar\gravitar\engine.cpp(110): warning C4244: 'argomento': conversione da 'double' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\users\acer\source\repos\gravitar\gravitar\engine.cpp(141): warning C4244: 'argomento': conversione da 'unsigned int' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\users\acer\source\repos\gravitar\gravitar\engine.cpp(151): warning C4244: 'argomento': conversione da 'unsigned int' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\users\acer\source\repos\gravitar\gravitar\engine.cpp(156): warning C4244: 'argomento': conversione da 'unsigned int' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\users\acer\source\repos\gravitar\gravitar\engine.cpp(177): warning C4244: 'argomento': conversione da 'unsigned int' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+c:\users\acer\source\repos\gravitar\gravitar\engine.cpp(214): warning C4244: 'argomento': conversione da 'unsigned int' a 'T'. Possibile perdita di dati.
+          with
+          [
+              T=float
+          ]
+  Gravitar.vcxproj -> C:\Users\Acer\source\repos\Gravitar\x64\Debug\Gravitar.exe
